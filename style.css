@@ -14,13 +14,7 @@ body {
 html {
   scroll-behavior: smooth;
   background: radial-gradient(ellipse at bottom, #000000 0%, #474861 100%);
-  /* background: radial-gradient(ellipse at bottom, #000000 0%, #a9b0f3 100%);
-  background: radial-gradient(ellipse at bottom, #000000 0%, #a270d7 100%); */
-  /* background: radial-gradient(ellipse at bottom, #000000 0%, #f68394 100%); */
-  /* background: radial-gradient(ellipse at bottom, #000000 0%, #17a289 100%); */
-
-  /* background: radial-gradient(ellipse at bottom, #c578bc 0%, #083f43 100%); */
-}
+  }
 
 #R {
   color: rgb(255, 255, 255);
